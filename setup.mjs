@@ -33,6 +33,8 @@ export function setup(ctx) {
             { key: 'ITEM_DESCRIPTION_Gem_Detector_Potion_II', text: '+4% 几率开采“宝石矿脉”或陨石矿时获得 1 枚至尊品质宝石' },
             { key: 'ITEM_DESCRIPTION_Gem_Detector_Potion_III', text: '+7% 几率开采“宝石矿脉”或陨石矿时获得 1 枚至尊品质宝石' },
             { key: 'ITEM_DESCRIPTION_Gem_Detector_Potion_IV', text: '+10% 几率开采“宝石矿脉”或陨石矿时获得 1 枚至尊品质宝石' },
+            // No issue
+            { key: 'ARCHAEOLOGY_ARTEFACT_SIZE_medium', text: '中型' },
         ];
 
         for (const fix of translationFixes) {
