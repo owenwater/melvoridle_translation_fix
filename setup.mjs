@@ -35,6 +35,7 @@ export function setup(ctx) {
             { key: 'ITEM_DESCRIPTION_Gem_Detector_Potion_IV', text: '+10% 几率开采“宝石矿脉”或陨石矿时获得 1 枚至尊品质宝石' },
             // No issue
             { key: 'ARCHAEOLOGY_ARTEFACT_SIZE_medium', text: '中型' },
+            { key: 'MAGIC_HOLY_INVOCATION', text: '对 ${qty1} x ${itemName} 附魔，使其埋葬后可获得 ${qty2} 祝祭点。' }
         ];
 
         for (const fix of translationFixes) {
