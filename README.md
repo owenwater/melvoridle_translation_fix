@@ -12,4 +12,4 @@ Includes fixes for:
 - Monster names (Zombie, Raging Horned Elite, Chicken).
 - Slayer task notifications.
 - Gem Detector Potion descriptions.
-- And more location and item descriptions.
+- More details can be found in setup.mjs.
