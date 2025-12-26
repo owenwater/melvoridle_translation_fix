@@ -37,7 +37,7 @@ export function setup(ctx) {
             { key: 'ARCHAEOLOGY_ARTEFACT_SIZE_medium', text: '中型' },
             { key: 'MAGIC_HOLY_INVOCATION', text: '对 ${qty1} x ${itemName} 附魔，使其埋葬后可获得 ${qty2} 祝祭点。' },
             { key: 'MAGIC_ALTMAGIC_DESC_CursedOffering', text: ' ${fixedItemQty0} x 诅咒原木转化为 ${amount} x 诅咒灰烬。' },
-
+            { key: 'ITEM_NAME_Mahogany_Logs', text: '桃花心木原木' },
         ];
 
         for (const fix of translationFixes) {
