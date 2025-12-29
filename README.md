@@ -48,7 +48,7 @@ The mod currently includes fixes for the following:
 - 鸡
   - 翻译错误：鸡肉 -> 鸡
 - 戈耳宾 (Golbin)
- - 翻译统一：哥布林 -> 戈耳宾 (Golbin)
+  - 翻译统一：哥布林 -> 戈耳宾 (Golbin)
 
 ### 挑战任务/战斗
 - 你完成了 ${count} 项精英屠杀者任务
@@ -56,7 +56,7 @@ The mod currently includes fixes for the following:
 
 ### 城镇：建筑
 - 酷岩石
- - 翻译统一：酷洛克 -> 酷岩石
+  - 翻译统一：酷洛克 -> 酷岩石
 
 ### 魔法/物品
 - 可以与诅咒和光环咒语一同使用
@@ -84,9 +84,9 @@ The mod currently includes fixes for the following:
 
 ### 考古学：遗物规格
 - 中型
- - 翻译改进：普通 -> 中型 (区别遗物规格和品质)
+  - 翻译改进：普通 -> 中型 (区别遗物规格和品质)
 
 ### 宠物：岩石
 - 优雅岩, 可爱岩, 皇家岩, 精灵岩, 魔法岩, 派对岩, 酷岩石
- - 翻译缺失：Rock -> 岩/岩石
+  - 翻译缺失：Rock -> 岩/岩石
 
