@@ -38,6 +38,24 @@ export function setup(ctx) {
             { key: 'MAGIC_HOLY_INVOCATION', text: '对 ${qty1} x ${itemName} 附魔，使其埋葬后可获得 ${qty2} 祝祭点。' },
             { key: 'MAGIC_ALTMAGIC_DESC_CursedOffering', text: ' ${fixedItemQty0} x 诅咒原木转化为 ${amount} x 诅咒灰烬。' },
             { key: 'ITEM_NAME_Mahogany_Logs', text: '桃花心木原木' },
+            // Rock
+            { key: 'PET_NAME_ClassyRock', text: '优雅岩' },
+            { key: 'PET_NAME_CuteRock', text: '可爱岩' },
+            { key: 'PET_NAME_RoyalRock', text: '皇家岩' },
+            { key: 'PET_NAME_ElfRock', text: '精灵岩' },
+            { key: 'PET_NAME_MagicRock', text: '魔法岩' },
+            { key: 'PET_NAME_PartyRock', text: '派对岩' },
+            { key: 'PET_NAME_CoolRock', text: '酷岩石' },
+            { key: 'PET_NAME_FestiveCoolRock', text: '节日酷岩石' },
+            { key: 'TOWNSHIP_BUILDING_Cool_Rocks', text: '酷岩石' },
+            { key: 'TOWNSHIP_MENU_CAN_BUY_COOL_ROCKS', text: '允许从商店中购买酷岩石。' },
+            // Golbin
+            { key: 'MONSTER_NAME_Golbin', text: '戈耳宾' },
+            { key: 'PET_NAME_GoldenGolbin', text: '黄金戈耳宾' },
+            { key: 'THIEVING_NPC_NAME_GOLBIN', text: '戈耳宾' },
+            { key: 'SHOP_DESCRIPTION_PrayerLevel', text: '戈耳宾劫掠祝祭等级 +1' },
+            { key: 'SHOP_DESCRIPTION_Jerry', text: '开始戈耳宾劫掠时携带 1 份精金弯刀' },
+            { key: 'GAMEMODES_GAMEMODE_RULES_Chaos_5', text: '无法游玩戈耳宾劫掠。' },
         ];
 
         for (const fix of translationFixes) {

@@ -13,7 +13,7 @@ Mod can be downloaded from [Mod.io](https://mod.io/g/melvoridle/m/translation-fi
 The mod currently includes fixes for the following:
 
 ### Monsters
-- **Names**: Zombie (僵尸), Raging Horned Elite (狂暴角龙精英), Chicken (鸡).
+- **Names**: Zombie (僵尸), Raging Horned Elite (狂暴角龙精英), Chicken (鸡), Golbin (戈耳宾).
 
 ### Items & Equipment
 - **Pickaxes**: Corrected descriptions for Iron, Steel, Black, Mithril, Adamant, Rune, and Dragon Pickaxes.
@@ -29,6 +29,12 @@ The mod currently includes fixes for the following:
 - **Slayer**: Elite Slayer Task completion notification.
 - **Combat**: Curses & Auroras compatibility text.
 
+### Pet
+- **Names**: Cute Rock (可爱岩石), Royal Rock (皇家岩石), Elf Rock (精灵岩石), Magic Rock (魔法岩石), Party Rock (派对岩石)
+
+### Town
+- **Names**: Cool Rocks (酷岩石).
+
 
 ## 修正的翻译
 
@@ -41,10 +47,16 @@ The mod currently includes fixes for the following:
   - 编码错误: 修正???字符
 - 鸡
   - 翻译错误：鸡肉 -> 鸡
+- 戈耳宾 (Golbin)
+ - 翻译统一：哥布林 -> 戈耳宾 (Golbin)
 
 ### 挑战任务/战斗
 - 你完成了 ${count} 项精英屠杀者任务
   - 错别字: 娃成 -> 完成
+
+### 城镇：建筑
+- 酷岩石
+ - 翻译统一：酷洛克 -> 酷岩石
 
 ### 魔法/物品
 - 可以与诅咒和光环咒语一同使用
@@ -73,4 +85,8 @@ The mod currently includes fixes for the following:
 ### 考古学：遗物规格
 - 中型
  - 翻译改进：普通 -> 中型 (区别遗物规格和品质)
+
+### 宠物：岩石
+- 优雅岩, 可爱岩, 皇家岩, 精灵岩, 魔法岩, 派对岩, 酷岩石
+ - 翻译缺失：Rock -> 岩/岩石
 
