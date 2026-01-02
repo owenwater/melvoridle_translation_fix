@@ -15,6 +15,9 @@ The mod currently includes fixes for the following:
 ### Monsters
 - **Names**: Zombie (僵尸), Raging Horned Elite (狂暴角龙精英), Chicken (鸡), Golbin (戈耳宾).
 
+### Augmented Stronghold
+- **Names**: Augmented Stronghold (进阶要塞).
+
 ### Items & Equipment
 - **Pickaxes**: Corrected descriptions for Iron, Steel, Black, Mithril, Adamant, Rune, and Dragon Pickaxes.
 - **Potions**: Gem Detector Potion I, II, III, IV.
@@ -49,6 +52,10 @@ The mod currently includes fixes for the following:
   - 翻译错误：鸡肉 -> 鸡
 - 戈耳宾 (Golbin)
   - 翻译统一：哥布林 -> 戈耳宾 (Golbin)
+- 进阶
+  - 翻译改进：扩张 -> 进阶 (所有二阶要塞有关此条，包括要塞名称和相关物品名称)
+-  不死扩张强化 1（扩张）
+  - 翻译错误：不死~~扩张~~强化 1（扩张）
 
 ### 挑战任务/战斗
 - 你完成了 ${count} 项精英屠杀者任务
