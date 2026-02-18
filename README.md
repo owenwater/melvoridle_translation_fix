@@ -105,7 +105,7 @@ The mod currently includes fixes for the following:
   - 翻译缺失：Rock -> 岩/岩石
 
 ### 故事
-- 编码错误（部分替换）：修正“无缘无故”中的乱码字符
+- 编码错误：修正“无缘无故”中的乱码字符
 - 错别字：统治着 -> 统治者
 
 ### 属性
