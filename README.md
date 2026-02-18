@@ -38,6 +38,13 @@ The mod currently includes fixes for the following:
 ### Town
 - **Names**: Cool Rocks (酷岩石).
 
+### Lore
+- **Encoding Fix**: Corrected garbled characters in `LORE_PARAGRAPH_5_2`.
+- **Typo Fix**: `LORE_PARAGRAPH_7_3` (统治着 -> 统治者).
+
+### Modifiers
+- **Skill Preservation**: Clarified "Skill Preservation Cap" as "留存资源几率上限".
+
 
 ## 修正的翻译
 
@@ -96,4 +103,12 @@ The mod currently includes fixes for the following:
 ### 宠物：岩石
 - 优雅岩, 可爱岩, 皇家岩, 精灵岩, 魔法岩, 派对岩, 酷岩石
   - 翻译缺失：Rock -> 岩/岩石
+
+### 故事 Lore
+- 编码错误（部分替换）：修正“无缘无故”中的乱码字符
+- 错别字：统治着 -> 统治者
+
+### 属性 Modifiers
+- 留存资源几率上限
+  - 翻译改进：留存资源上限 -> 留存资源几率上限
 

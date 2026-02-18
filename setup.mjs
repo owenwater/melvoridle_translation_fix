@@ -93,10 +93,23 @@ export function setup(ctx) {
             { key: 'ITEM_NAME_Overlords_Enhancement_Scroll_Augmented', text: '领主强化卷轴（进阶）' },
             { key: 'PASSIVES_NAME_AugmentedStrongholdBuff', text: '要塞增益（进阶）' },
             { key: 'PASSIVES_NAME_AugmentedAbyssalStrongholdBuff', text: '深渊要塞增益（进阶）' },
+            // Preservation Cap
+            { key: 'MODIFIER_DATA_skillPreservationCapRealm', text: '${value}% 使用${skillName}时的留存资源几率上限（仅限${realmName}）' },
+            { key: 'MODIFIER_DATA_skillPreservationCap', text: '${value}% 使用技能时的留存资源几率上限' },
+            { key: 'MODIFIER_DATA_skillPreservationCapGlobalRealm', text: '${value}% 使用技能时的留存资源几率上限（仅限${realmName}）' },
+            // Story
+            { key: 'LORE_PARAGRAPH_5_2', search: /无缘.故/g, replace: '无缘无故' },
+            { key: 'LORE_PARAGRAPH_7_3', search: /统治着/g, replace: '统治者' },
         ];
 
         for (const fix of translationFixes) {
-            loadedLangJson[fix.key] = fix.text;
+            if (fix.text) {
+                loadedLangJson[fix.key] = fix.text;
+            } else if (fix.search && fix.replace) {
+                if (loadedLangJson[fix.key]) {
+                    loadedLangJson[fix.key] = loadedLangJson[fix.key].replace(fix.search, fix.replace);
+                }
+            }
         }
     }
 }
