@@ -98,7 +98,7 @@ export function setup(ctx) {
             { key: 'MODIFIER_DATA_skillPreservationCap', text: '${value}% 使用技能时的留存资源几率上限' },
             { key: 'MODIFIER_DATA_skillPreservationCapGlobalRealm', text: '${value}% 使用技能时的留存资源几率上限（仅限${realmName}）' },
             // Story
-            { key: 'LORE_PARAGRAPH_5_2', search: /无缘.故/g, replace: '无缘无故' },
+            { key: 'LORE_PARAGRAPH_5_2', search: /无缘.+故/g, replace: '无缘无故' },
             { key: 'LORE_PARAGRAPH_7_3', search: /统治着/g, replace: '统治者' },
         ];
 
