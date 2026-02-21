@@ -27,7 +27,7 @@ export function setup(ctx) {
             // issues/4820
             { key: 'MENU_TEXT_COMPLETED_SLAYER_TASK_Elite', text: '你完成了 ${count} 项精英屠杀者任务' },
             // issues/4890
-            { key: 'CAN_BE_USED_WITH_CURSES_AURORAS', text: '可以与诅咒和极光一起使用' },
+            { key: 'CAN_BE_USED_WITH_CURSES_AURORAS', text: '可以与诅咒和光环咒语一起使用' },
             // issues/4224
             { key: 'ITEM_DESCRIPTION_Gem_Detector_Potion_I', text: '+2% 几率开采“宝石矿脉”或陨石矿时获得 1 枚至尊品质宝石' },
             { key: 'ITEM_DESCRIPTION_Gem_Detector_Potion_II', text: '+4% 几率开采“宝石矿脉”或陨石矿时获得 1 枚至尊品质宝石' },

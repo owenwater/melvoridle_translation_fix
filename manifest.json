@@ -1,6 +1,6 @@
 {
     "namespace": "translationFixes",
-    "version": "1.0.6a",
+    "version": "1.0.6b",
     "setup": "setup.mjs",
     "icon": "translate.png"
 }
