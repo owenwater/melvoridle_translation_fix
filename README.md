@@ -31,6 +31,7 @@ The mod currently includes fixes for the following:
   - Cursed Offering description (Alt Magic).
 - **Slayer**: Elite Slayer Task completion notification.
 - **Combat**: Curses & Auroras compatibility text.
+- **Mining**: Meteorite Vein menu text.
 
 ### Pet
 - **Names**: Cute Rock (可爱岩石), Royal Rock (皇家岩石), Elf Rock (精灵岩石), Magic Rock (魔法岩石), Party Rock (派对岩石)
@@ -79,6 +80,10 @@ The mod currently includes fixes for the following:
 ### 伐木: 桃花心木
 - 桃花心木原木
   - 翻译改进：桃花心木原木 -> 桃花心木 （区别树和原木）。
+
+### 采矿
+- 陨石会在星象学研究中随机出现
+  - 翻译改进：修正陨石矿脉菜单文本
 
 ### 草药学：寻宝奇兵药水(I-IV)
 - +2% 几率开采“宝石矿脉”或陨石矿时获得 1 枚至尊品质宝石

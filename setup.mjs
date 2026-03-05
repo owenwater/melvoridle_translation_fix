@@ -100,6 +100,8 @@ export function setup(ctx) {
             // Story
             { key: 'LORE_PARAGRAPH_5_2', search: /无缘.+故/g, replace: '无缘无故' },
             { key: 'LORE_PARAGRAPH_7_3', search: /统治着/g, replace: '统治者' },
+            // Mining
+            { key: 'MENU_TEXT_METEORITE_VEIN', text: '陨石会在星象学研究中随机出现' },
         ];
 
         for (const fix of translationFixes) {
