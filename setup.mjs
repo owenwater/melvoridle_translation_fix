@@ -102,6 +102,9 @@ export function setup(ctx) {
             { key: 'LORE_PARAGRAPH_7_3', search: /统治着/g, replace: '统治者' },
             // Mining
             { key: 'MENU_TEXT_METEORITE_VEIN', text: '陨石会在星象学研究中随机出现' },
+            // Slayer Areas
+            { key: 'GAME_GUIDE_COMBAT_SLAYER_AREAS', text: '屠杀者区域' },
+            { key: 'COMBAT_AREA_CATEGORY_SlayerAreas', text: '屠杀者区域' },
         ];
 
         for (const fix of translationFixes) {

@@ -30,6 +30,7 @@ The mod currently includes fixes for the following:
   - Holy Invocation description.
   - Cursed Offering description (Alt Magic).
 - **Slayer**: Elite Slayer Task completion notification.
+- **Slayer Areas**: Game Guide and Combat Area Category (屠杀者区域).
 - **Combat**: Curses & Auroras compatibility text.
 - **Mining**: Meteorite Vein menu text.
 
@@ -84,6 +85,10 @@ The mod currently includes fixes for the following:
 ### 采矿
 - 陨石会在星象学研究中随机出现
   - 翻译改进：修正陨石矿脉菜单文本
+
+### 屠杀者区域
+- 屠杀者区域
+  - 翻译统一：屠杀区域 -> 屠杀者区域 (游戏指南和战斗区域分类)
 
 ### 草药学：寻宝奇兵药水(I-IV)
 - +2% 几率开采“宝石矿脉”或陨石矿时获得 1 枚至尊品质宝石
