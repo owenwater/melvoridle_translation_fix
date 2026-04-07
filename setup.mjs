@@ -119,5 +119,7 @@ export function setup(ctx) {
                 }
             }
         }
+    } else {
+        console.log('Translation fixes not applied: Language not set to Simplified Chinese. Current language: ' + currentLang);
     }
 }
