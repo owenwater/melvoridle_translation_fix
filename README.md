@@ -20,7 +20,7 @@ The mod currently includes fixes for the following:
 
 ### Items & Equipment
 - **Pickaxes**: Corrected descriptions for Iron, Steel, Black, Mithril, Adamant, Rune, and Dragon Pickaxes.
-- **Potions**: Gem Detector Potion I, II, III, IV.
+- **Potions**: Gem Detector Potion I, II, III, IV, Multicooker Potion (多重烹饪药水).
 - **Resources**: Mahogany Logs (桃花心木原木).
 
 ### Skills & Mechanics
@@ -93,6 +93,8 @@ The mod currently includes fixes for the following:
 ### 草药学：寻宝奇兵药水(I-IV)
 - +2% 几率开采“宝石矿脉”或陨石矿时获得 1 枚至尊品质宝石
   - 翻译改进：矿脉 -> “宝石矿脉”
+- 多重烹饪药水
+  - 翻译统一：多效药水 -> 多重烹饪药水
 
 ### 生活类魔法：神圣感召 I,II, III
 - 对 ${qty1} x ${itemName} 附魔，使其埋葬后可获得 ${qty2} 祝祭点。

@@ -105,6 +105,9 @@ export function setup(ctx) {
             // Slayer Areas
             { key: 'GAME_GUIDE_COMBAT_SLAYER_AREAS', text: '屠杀者区域' },
             { key: 'COMBAT_AREA_CATEGORY_SlayerAreas', text: '屠杀者区域' },
+            { key: 'GAME_GUIDE_COMBAT_SLAYER_AREAS_0', text: '在此处击杀怪物可以获得屠杀者经验。某些区域需要特殊物品或屠杀者等级以进入。'},
+            // Potions
+            { key: 'POTION_NAME_Multicooker_Potion', text: '多重烹饪药水' },
         ];
 
         for (const fix of translationFixes) {
